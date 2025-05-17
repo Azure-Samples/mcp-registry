@@ -3,10 +3,12 @@
 > Powered by [Azure API Center](https://learn.microsoft.com/en-us/azure/api-center/register-discover-mcp-server) <img src="https://apidev.gallerycdn.vsassets.io/extensions/apidev/azure-api-center/1.1.2025051305/1747194036358/Microsoft.VisualStudio.Services.Icons.Default" width="30" height="30">
 
 ## Try - https://demo.registry.azure-mcp.net/v0/servers
-
+>  Azure MCP Server - https://demo.registry.azure-mcp.net/v0/servers/428785c9-039e-47f6-9636-cbe289cc1990
 - Implements the [Model Context Protocol Registry](https://github.com/modelcontextprotocol/registry/blob/main/api/README.md) specification
 - Supports List, Get and Publish operations. 
     - For publishing please follow [instructions](https://github.com/modelcontextprotocol/registry/blob/main/tools/publisher/README.md)
+ 
+
 
 ### Azure API Center - Enterpise Registry
 Enterprises can use [Azure API Center](https://github.com/azure/api-center) a key feature of [Azure API Management](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts) platform to maintain an inventory (or registry) of remote model context protocol (MCP) servers, govern and help stakeholders discover and consume them using the API Center portal and developer tools. 
